@@ -1,5 +1,5 @@
 ## 使用说明
-```javascript
+```js
   animUtil.startAnim({
     targetList: $('.butterfly'),
     xRange: { min: 0, max: 10 },
