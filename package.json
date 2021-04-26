@@ -1,8 +1,8 @@
 {
   "name": "bubbleanimation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
-  "main": "./src/dist/bubbleAnim.js",
+  "main": "./dist/bubbleAnim.js",
   "scripts": {
     "build": "webpack"
   },
